@@ -112,7 +112,6 @@ dedf382ea41adbc236c80dad072295ef
 -----END OpenVPN Static key V1-----
 </tls-crypt>",
      {"id":1,"file":"client
-client
 server-poll-timeout 4
 nobind
 remote 34.168.138.79 1194 udp
